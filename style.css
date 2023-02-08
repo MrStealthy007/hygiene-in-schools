@@ -13,7 +13,15 @@ a{
     padding: 5px;
     text-decoration: none;
     color: #ffffff;
+    display: inline-flex;
 }
 #title:hover{
     color: #FFECD1;
+}
+.navButtons{
+    display: inline-flex;
+    color: #ffffff;
+    padding-right: 5px;
+    padding-left: 65%;
+    text-decoration: none;
 }
