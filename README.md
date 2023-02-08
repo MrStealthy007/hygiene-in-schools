@@ -1,6 +1,6 @@
 # hygiene-in-schools
 
-Cambridge Global Perspectives team project website resource. Publuc repo.
+Cambridge Global Perspectives team project website resource. Public repo.
 
 Guidelines
 
