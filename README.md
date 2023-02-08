@@ -1,26 +1,18 @@
 # hygiene-in-schools
 
-Cambridge Global Perspectives team project website resource. Private repo.
+Cambridge Global Perspectives team project website resource. Publuc repo.
 
 Guidelines
 
-  Font: /TBD/
+  Font: Signika from google fonts
   
-  Font color: /TBD/
+  Font color: FFECD1
   
-  Primary accent color: /TBD/
+  Primary accent color: 15616D
   
-  Secondary accent color: /TBD/
+  Secondary accent color: FF7D00
   
-
-  Must be a responsive website
-  
-  Style: modern 2017+
-  
-  Aiming for entirely tailwind or bootstrap
-  
-  Flexbox or CSS grid is ok
-  
+  For flash/bold text use: 78290F  
   
   ABSOLUTELY NO USING FLOATS!
   
