@@ -59,7 +59,7 @@ a:hover{
         align-content: center;
     }
 }
-@media screen and (max-width: 560px){
+@media screen and (max-width: 560px) and (min-width: 460px){
     .list{
         display: none;
     }
@@ -70,6 +70,63 @@ a:hover{
         justify-content: center;
     }
     #title{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 459px) and (min-width: 400px){
+    .list{
+        display: none;
+    }
+    .navBar{
+        border-radius: 100px;
+        padding: 10px;
+        margin: 10px 20px;
+        justify-content: center;
+        font-size: medium;
+    }
+    #title{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+}
+
+@media screen and (max-width: 399px) and (min-width: 330px){
+    .list{
+        display: none;
+    }
+    .navBar{
+        border-radius: 100px;
+        padding: 10px;
+        margin: 10px 50px;
+        justify-content: center;
+        font-size: xx-small;
+    }
+    #title{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+}
+@media screen and (max-width: 329px) and (min-width: 240px){
+    .list{
+        display: none;
+    }
+    .navBar{
+        border-radius: 0px;
+        padding: 10px;
+        margin: 0px;
+        justify-content: center;
+        font-size: xx-small;
+    }
+    #title{
+        text-align: center;
         display: flex;
         justify-content: center;
         align-content: center;
