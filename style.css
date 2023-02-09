@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
 }
+img{
+    width: 100%;
+}
 a{
     text-decoration: none;
     color: #ffffff;
@@ -19,13 +22,28 @@ a:hover{
     padding: 10px 20px;
 }
 #title{
-    display: inline;
+    font-weight: 300;
 }
 .navButtons{
-    display: inline;
     color: #ffffff;
 }
 .list{
-    display: inline-flex;
     list-style-type: none;
+}
+.flexNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.navButtons{
+    font-size: larger;
+}
+.flexBut{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 10px;
+}
+.navBar a{
+    padding: 0px 12px;
 }
