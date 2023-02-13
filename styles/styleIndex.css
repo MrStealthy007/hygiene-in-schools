@@ -56,9 +56,7 @@ a:hover{
 }
 .highlighted{
     color: #24bad1;
-}
-body{
-    overflow: hidden;
+    font-weight: 300;
 }
 @media screen and (min-width: 561px) and (max-width: 768px){
     .navBar{

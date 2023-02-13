@@ -49,16 +49,14 @@ a:hover{
     padding: 0px 12px;
 }
 .img1{
-    background-image: url("images/bg.png");
+    background-image: url("images/bg2.png");
     background-size: 100%;
     padding: 10px 0px 929px;
     background-repeat: no-repeat;
 }
 .highlighted{
     color: #24bad1;
-}
-body{
-    overflow: hidden;
+    font-weight: 300;
 }
 @media screen and (min-width: 561px) and (max-width: 768px){
     .navBar{
