@@ -51,7 +51,7 @@ a:hover{
 .img1{
     background-image: url("images/bg.png");
     background-size: 100%;
-    padding: 10px 0px 929px;
+    padding: 10px;
     background-repeat: no-repeat;
 }
 .highlighted{
@@ -69,6 +69,13 @@ a:hover{
         justify-content: center;
         align-content: center;
     }
+}
+.firstSection{
+    color: white;
+    font-family: 'Signika',sans-serif;
+    text-align: justify;
+    margin: 10px 10% 10px 10%;
+    font-size: x-large;
 }
 @media screen and (max-width: 560px) and (min-width: 460px){
     .list{
