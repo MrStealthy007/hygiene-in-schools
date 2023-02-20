@@ -1,4 +1,4 @@
-# hygiene-in-schools
+# schools-for-clubs
 
 Cambridge Global Perspectives team project website resource. Public repo.
 
